@@ -3,9 +3,9 @@
 </p>
 <br><br>
 <p align="center">
-    <h1 align="center">Just the Docs</h1>
+    <h1 align="center">Jekyll Helping Center</h1>
     <p align="center">A modern, high customizable, responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
+    <p align="center"><strong><a href="https://github.com/Hitchcock717/jekyll_helping_center">See it in action!</a></strong></p>
     <br><br><br>
 </p>
 
@@ -39,11 +39,11 @@ Or install it yourself as:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsceill/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/Hitchcock717/jekyll_helping_center. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ### Submitting code changes:
 
-- Open a [Pull Request](https://github.com/pmarsceill/just-the-docs/pulls)
+- Open a [Pull Request](https://github.com/Hitchcock717/jekyll_helping_center/pulls)
 - Ensure all CI tests pass
 - Await code review
 - Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
