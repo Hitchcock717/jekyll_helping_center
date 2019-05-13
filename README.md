@@ -1,3 +1,4 @@
+### fork and edit the repo from https://github.com/pmarsceill/just-the-docs
 <p align="right">
     <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://travis-ci.com/pmarsceill/just-the-docs"><img src="https://travis-ci.com/pmarsceill/just-the-docs.svg?branch=master" alt="Build status"></a>
 </p>
